@@ -117,7 +117,7 @@
               "details": [
                 "Provides certificates for STIR/SHAKEN call authentication",
                 "Served as architect and lead developer on project",
-                "Developed distrubuted, stateless RESTful API written in JavaScript using Sails.js and Node.js with MySQL and Amazon DynamoDB for storage",
+                "Developed distrubuted, stateless RESTful API written in JavaScript using Sails.js and Node.js with MySQL and DynamoDB for storage",
                 "Developed web interface written in JavaScript using Ember.js, jQuery, and Bootstrap"
               ]
             },
