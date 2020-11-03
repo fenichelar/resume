@@ -247,14 +247,12 @@
             "EC2",
             "Elastic Beanstalk",
             "ELB",
-            "Global Accelerator",
             "IAM",
             "Lambda",
             "RDS",
             "Route 53",
             "S3",
-            "VPC",
-            "WAF"
+            "VPC"
           ]
         }
       ]
