@@ -104,13 +104,21 @@
             {
               "summary": "Designed, developed, deployed, and maintained ClearIP VoIP management and protection platform",
               "details": [
-                "Provides real time fraud detection and prevention with near linear scalability using microservice architecture pattern",
+                "Provides least cost routing, toll-fraud prevention, robocall prevention, and STIR/SHAKEN with near linear scalability using microservice architecture pattern",
                 "Served as architect and lead developer on project",
                 "Developed distrubuted, stateless SIP server written in JavaScript using Node.js with Redis for storage",
-                "Developed distrubuted, stateless RESTful API written in JavaScript using Sails.js and Node.js with MySQL for storage",
+                "Developed distrubuted, stateless RESTful API written in JavaScript using Sails.js and Node.js with MySQL, Elasticseach, and Apache Druid for storage",
                 "Developed web interface written in JavaScript using Ember.js, jQuery, and Bootstrap",
                 "Developed numerous supporting applications for queue processing, billing, archiving, etc. written in JavaScript using Node.js",
-                "Deployed applications with HashiCorp Packer, AWS Elastic Beanstalk, and AWS S3"
+              ]
+            },
+            {
+              "summary": "Designed, developed, deployed, and maintained TransNexus Certificate Authority platform",
+              "details": [
+                "Provides certificates for STIR/SHAKEN call authentication",
+                "Served as architect and lead developer on project",
+                "Developed distrubuted, stateless RESTful API written in JavaScript using Sails.js and Node.js with MySQL and Amazon DynamoDB for storage",
+                "Developed web interface written in JavaScript using Ember.js, jQuery, and Bootstrap",
               ]
             },
             {
@@ -120,7 +128,6 @@
                 "Served as architect and lead developer on project",
                 "Developed distrubuted, stateless RESTful API written in JavaScript using Sails.js and Node.js with MySQL for storage",
                 "Developed web interface written in JavaScript using Ember.js, jQuery, and Bootstrap",
-                "Deployed applications with AWS Elastic Beanstalk and AWS S3"
               ]
             },
             {
@@ -178,27 +185,6 @@
           ]
         },
         {
-          "company": "Georgia Tech IEEE",
-          "position": "Webmaster",
-          "location": "Atlanta, GA",
-          "dates": {
-            "start": {
-              "month": "August",
-              "year": 2011
-            },
-            "end": {
-              "month": "May",
-              "year": 2014
-            },
-            "present": false,
-            "alternating": false
-          },
-          "detail": [
-            "Developed new website using HTML, CSS, JavaScript, and PHP",
-            "Placed in IEEE SoutheastCon Website Competition every year – 1st Place (2014), 1st Place (2013), 3rd Place (2012)"
-          ]
-        },
-        {
           "company": "General Electric Aviation",
           "position": "Software Engineer Intern",
           "location": "Cincinnati, OH",
@@ -227,15 +213,6 @@
       "type": "skills",
       "data": [
         {
-          "type": "Programming Languages",
-          "contents": [
-            "JavaScript (advanced)",
-            "Python (moderate)",
-            "MATLAB (moderate)",
-            "C/C++ (basic)"
-          ]
-        },
-        {
           "type": "Web Frameworks",
           "contents": [
             "Node.js",
@@ -252,25 +229,32 @@
           "contents": [
             "Redis",
             "MySQL",
-            "Amazon Redshift"
+            "Elasticsearch",
+            "Apache Druid",
+            "Apache Kafka",
+            "Amazon Redshift",
+            "Amazon DynamoDB"
           ]
         },
         {
           "type": "AWS",
           "contents": [
-            "VPC",
-            "EC2",
-            "Lambda",
             "Auto Scaling",
-            "ELB",
-            "RDS",
-            "S3",
-            "EBS",
             "CloudFront",
-            "IAM",
-            "Route 53",
+            "CloudTrail",
             "CloudWatch",
-            "Elastic Beanstalk"
+            "EBS",
+            "EC2",
+            "Elastic Beanstalk",
+            "ELB",
+            "Global Accelerator",
+            "IAM",
+            "Lambda",
+            "RDS",
+            "Route 53",
+            "S3",
+            "VPC",
+            "WAF"
           ]
         }
       ]
