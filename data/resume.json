@@ -107,7 +107,7 @@
                 "Provides toll-fraud prevention, robocall prevention, STIR/SHAKEN, and LCR with linear scalability using microservice architecture",
                 "Served as architect and lead developer on project",
                 "Developed distrubuted, stateless SIP server written in JavaScript using Node.js with Redis database",
-                "Developed distrubuted, stateless RESTful API written in JavaScript using Sails.js and Node.js with MySQL, Elasticseach, and Druid databases",
+                "Developed distrubuted, stateless RESTful API written in JavaScript using Sails.js and Node.js with MySQL and Apache Druid databases",
                 "Developed web interface written in JavaScript using Ember.js, jQuery, and Bootstrap",
                 "Developed numerous supporting applications for queue processing, billing, archiving, etc. written in JavaScript using Node.js"
               ]
