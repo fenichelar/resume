@@ -34,7 +34,7 @@
       "title": "Summary",
       "type": "paragraph",
       "data": [
-        "I am a software architect with experience designing, developing, deploying, and maintaining production applications on AWS and Azure."
+        "I am a Senior Software Architect at TransNexus with experience designing, developing, deploying, and maintaining applications on AWS and Azure. My focus is on designing distributed microservice architectures for mission-critical, real-time applications. I am a frequent technical speaker on STIR/SHAKEN. I am an active contributor to the ATIS/SIP Forum IP-NNI task force, ATIS PTSC Non-IP Call Authentication task force, and IETF STIR working group."
       ]
     },
     {
@@ -102,18 +102,20 @@
           },
           "detail": [
             {
-              "summary": "Designed, developed, deployed, and maintained ClearIP VoIP management and protection platform",
+              "summary": "Designed, developed, deployed, and maintained ClearIP",
+              "url": "https://clearip.com",
               "details": [
                 "Provides toll-fraud prevention, robocall prevention, STIR/SHAKEN, and LCR with linear scalability using microservice architecture",
                 "Served as architect and lead developer on project",
-                "Developed distrubuted, stateless SIP server written in JavaScript using Node.js with Redis database",
+                "Developed distrubuted, stateless SIP server written in JavaScript using Node.js with Redis and Apache Kafka databases",
                 "Developed distrubuted, stateless RESTful API written in JavaScript using Sails.js and Node.js with MySQL and Druid databases",
                 "Developed web interface written in JavaScript using Ember.js, jQuery, and Bootstrap",
-                "Developed numerous supporting applications for queue processing, billing, archiving, etc. written in JavaScript using Node.js"
+                "Developed numerous supporting applications written in JavaScript using Node.js"
               ]
             },
             {
-              "summary": "Designed, developed, deployed, and maintained TransNexus Certificate Authority platform",
+              "summary": "Designed, developed, deployed, and maintained TransNexus Certificate Authority",
+              "url": "https://ca.transnexus.com",
               "details": [
                 "Provides certificates for STIR/SHAKEN call authentication",
                 "Served as architect and lead developer on project",
@@ -122,7 +124,17 @@
               ]
             },
             {
+              "summary": "Designed, developed, deployed, and maintained TransNexus Call Placement Service",
+              "url": "https://cps.transnexus.com",
+              "details": [
+                "Provides a call placement service for out-of-band STIR/SHAKEN call authentication",
+                "Served as architect and lead developer on project",
+                "Developed distrubuted, stateless RESTful API written in JavaScript using Express.js and Node.js with Redis database"
+              ]
+            },
+            {
               "summary": "Designed, developed, deployed, and maintained TransNexus Administration Portal",
+              "url": "https://portal.transnexus.com",
               "details": [
                 "Provides web interface and API for managing customers' software",
                 "Served as architect and lead developer on project",
@@ -161,27 +173,6 @@
             "Developed GUI to monitor and control prototype in real time for dynamic simulator testing using MATLAB",
             "Created electrical system and software for controlling linear actuator with pulse width modulation using C++",
             "Created custom PCB Arduino shield and software for recording feedback with force sensitive resistors using C++"
-          ]
-        },
-        {
-          "company": "McKenney’s, Inc.",
-          "position": "Information Technology Intern ",
-          "location": "Atlanta, GA",
-          "dates": {
-            "start": {
-              "month": "May",
-              "year": 2014
-            },
-            "end": {
-              "month": "August",
-              "year": 2014
-            },
-            "present": false,
-            "alternating": false
-          },
-          "detail": [
-            "Diagnosed and resolved technical issues related to hardware and software",
-            "Developed automated system for sharing files with contractors via FTP using HTML, JavaScript, PHP, and batch"
           ]
         },
         {
@@ -263,7 +254,6 @@
       "data": [
         {
           "project": "Ember Simple Auth Token",
-          "role": "contributor",
           "url": "https://github.com/jpadilla/ember-simple-auth-token",
           "dates": {
             "start": {
@@ -317,26 +307,6 @@
           },
           "detail": [
             "Arduino library for fast and simultaneous operations to Arduino I/O pins using port manipulation written in C++"
-          ]
-        },
-        {
-          "project": "Too Many Lasers",
-          "role": "contributor",
-          "url": "https://github.com/fenichelar/Too-Many-Lasers",
-          "dates": {
-            "start": {
-              "month": "June",
-              "year": 2016
-            },
-            "end": {
-              "month": "August",
-              "year": 2016
-            },
-            "present": false,
-            "alternating": false
-          },
-          "detail": [
-            "HTML5 space game written in TypeScript using Phaser"
           ]
         },
         {
