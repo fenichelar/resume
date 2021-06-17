@@ -22,7 +22,11 @@ function formatPhone(input) {
 
 function renderDetail(input) {
   if (typeof input === "object") {
-    var details = input.summary + "<ul>";
+    var details = input.summary;
+    if (input.url) {
+      details += " &#8209 <a href=\"" + input.url + "\" target=\"_blank\" class=\"link\">" + input.url + "</a>"
+    }
+    details += "<ul>";
     for (var i = 0; i < input.details.length; i ++) {
     details += "<li>" + input.details[i] + "</li>";
     }
