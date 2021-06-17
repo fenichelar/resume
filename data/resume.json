@@ -314,10 +314,10 @@
               "year": 2015
             },
             "end": {
-              "month": "December",
-              "year": 2015
+              "month": "",
+              "year": null
             },
-            "present": false,
+            "present": true,
             "alternating": false
           },
           "detail": [
