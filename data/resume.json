@@ -103,7 +103,6 @@
           "detail": [
             {
               "summary": "Designed, developed, deployed, and maintained ClearIP",
-              "url": "https://clearip.com",
               "details": [
                 "Provides toll-fraud prevention, robocall prevention, STIR/SHAKEN, and LCR with linear scalability using microservice architecture",
                 "Served as architect and lead developer on project",
@@ -115,7 +114,6 @@
             },
             {
               "summary": "Designed, developed, deployed, and maintained TransNexus Certificate Authority",
-              "url": "https://ca.transnexus.com",
               "details": [
                 "Provides certificates for STIR/SHAKEN call authentication",
                 "Served as architect and lead developer on project",
@@ -125,7 +123,6 @@
             },
             {
               "summary": "Designed, developed, deployed, and maintained TransNexus Call Placement Service",
-              "url": "https://cps.transnexus.com",
               "details": [
                 "Provides a call placement service for out-of-band STIR/SHAKEN call authentication",
                 "Served as architect and lead developer on project",
@@ -134,7 +131,6 @@
             },
             {
               "summary": "Designed, developed, deployed, and maintained TransNexus Administration Portal",
-              "url": "https://portal.transnexus.com",
               "details": [
                 "Provides web interface and API for managing customers' software",
                 "Served as architect and lead developer on project",
